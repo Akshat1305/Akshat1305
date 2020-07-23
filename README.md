@@ -4,9 +4,14 @@
 
 - 🔭 I’m currently working on **Machine Learning & Android Development**
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat1305/Python-Projects.git](https://github.com/Akshat1305/Python-Projects.git)
 
+
 - ⚡ Fun fact **The root is at the top of the tree.**
+
+
+
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshat1305&show_icons=true" alt="akshat1305" /> </p>
 
