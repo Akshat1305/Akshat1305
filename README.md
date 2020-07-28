@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat1305/Python-Projects.git](https://github.com/Akshat1305/Python-Projects.git)
 
-- 🌱 I’m currently learning  **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning  **Artificial Intelligence and Machine Learning  **
 
 - 📫 How to reach me **akshatp99@gmail.com**
 
