@@ -18,6 +18,6 @@
 <a href="https://instagram.com/_iam_akshat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_iam_akshat" height="40" width="40" /></a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Akshat1305&repo=Python-Projects&show_owner=true&theme=radical)](https://github.com/Akshat1305/Python-Projects)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat1305&repo=Python-Projects&show_owner=true&theme=radical" alt="akshat1305" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1305&theme=radical)](https://github.com/Akshat1305/Python-Projects)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1305&theme=radical" alt="akshat1305" /> </p>
