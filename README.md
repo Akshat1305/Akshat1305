@@ -8,7 +8,7 @@
 <a href="https://instagram.com/_iam_akshat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_iam_akshat" height="40" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at https://github.com/Akshat1305
+- 👨‍💻 All of my projects are available at https://github.com/Akshat1305?tab=repositories
 - 🌱 I’m currently learning  **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **akshatp99@gmail.com**
