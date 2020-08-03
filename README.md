@@ -21,6 +21,6 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat1305&repo=COVID-19_Analysis&show_owner=true&theme=radical&decription=" alt="akshat1305" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat1305&repo=Stock_Market_Analysis&show_owner=true&theme=radical&decription=" alt="akshat1305" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat1305&repo=Stock_Market_Analysis&show_owner=true&theme=radical&decription=+" alt="akshat1305" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1305&theme=radical&layout=compact" alt="akshat1305" /> </p>
