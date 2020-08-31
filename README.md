@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">A passionate python developer.</h3>
+<h3 align="center">A passionate Python Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat1305" alt="akshat1305" /> </p>
 
 <p align="center">
